@@ -10,4 +10,4 @@ const int MIN = 1; //[inclusive] min range
 
 const int MAX = 200; //[inclusive] max range (MAX = 2147483647)
 
-const int COUNT = 100; //(number of integers to be generated
+const int COUNT = 100; //number of integers to be generated

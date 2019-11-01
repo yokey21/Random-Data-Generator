@@ -3,8 +3,8 @@ Generates random integer data with given parameters and writes to a file vertica
 
 ***Default Output file: "data.txt"***
 
-# CONFIG (config in **dataGen.txt**)
-const string FILENAME = "data.txt"; //name of file to write to
-const int MIN = 1; //[inclusive] min range
-const int MAX = 200; //[inclusive] max range (MAX = 2147483647)
-const int COUNT = 100; //(number of integers to be generated
+# Config (in **dataGen.txt**)
+const string FILENAME = "data.txt"; //name of file to write to \n
+const int MIN = 1; //[inclusive] min range \n
+const int MAX = 200; //[inclusive] max range (MAX = 2147483647) \n
+const int COUNT = 100; //(number of integers to be generated \n

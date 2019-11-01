@@ -10,7 +10,7 @@ const int MAX = 200; //[inclusive] max range (MAX = 2147483647)
 const int COUNT = 100; //(number of integers to be generated
 /***** CONFIG *****/
 
-//Generates Random integers and write to a files (seperated by a space)
+//Generates Random integers and writes to a file
 //OVERRIDES FILE
 int main()
 {

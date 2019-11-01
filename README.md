@@ -3,7 +3,7 @@ Generates random integer data with given parameters and writes to a file vertica
 
 ***Default Output file: "data.txt"***
 
-# Config (in **dataGen.txt**)
+# Config (in **dataGen.cpp**)
 const string FILENAME = "data.txt"; //name of file to write to
 
 const int MIN = 1; //[inclusive] min range
